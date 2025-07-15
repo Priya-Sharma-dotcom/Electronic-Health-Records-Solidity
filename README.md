@@ -1,4 +1,4 @@
-# Blockchain Health Record System (Manual Flow)
+# Blockchain Health Record System (Solidity)
 
 This project demonstrates secure health data sharing using:
 - 📦 IPFS (via Pinata) for storing encrypted reports
